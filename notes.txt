@@ -1,0 +1,47 @@
+<div className="mobile_hud">
+          <table>
+            <tr>
+              <th colSpan="2" style="text-align: center;">
+                <span className="mobile_feedback" id="mobile_feedback"></span>
+              </th>
+            </tr>
+            <tr>
+              <th>
+                <span id="mobile_save">
+                  <button className="mobile_settings"  id='unclickable'>Save Game</button>
+                </span>
+              </th>
+              <th>
+                <div className="mobile_hud__health">
+                  Vital Signs: <span id="mobile_health">Unknown</span>
+                </div>
+              </th>
+            </tr>
+            <tr>
+              <th>
+                <span id="delete">
+                  <button className="mobile_settings">Delete Save</button>
+                </span>
+              </th>
+              <th>
+                <div className="mobile_hud__profit">Profits: 
+                    <span id="mobile_profit">???</span> creds
+                </div>
+              </th>
+            </tr> 
+            <tr>
+              <th>
+                <span id="new">
+                  <button className="mobile_settings">New Game</button>
+                </span>
+              </th>
+              <th style="text-align: right; padding-right: 10px;">
+                <span className="text-center text-muted">
+                  <a href="https://github.com/alex-gillis" target="_blank">Github</a>
+                  <span>|</span>
+                  <a href="https://www.artstation.com/artwork/On5eg" target="_blank">Artwork</a>
+                </span>
+              </th>
+            </tr> 
+          </table>
+        </div>
