@@ -1,5 +1,3 @@
-import '../styles/Module.css'
-
 function Settings() {
 
   return (
