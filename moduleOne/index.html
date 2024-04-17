@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="./style.css" /> 
+        <title>Scavenging Module One</title>
+    </head>
+    <body id="filter">
+        <div class="menu">
+            <div class="menu__settings">
+                <p>
+                    <h4>Game Settings</h4>
+                    <!--More than likely, put it into a grid-->
+                    <span id="save">
+                        <button class="settings" style="color: #7D7D7D; cursor: auto;">Save Game</button>
+                    </span> 
+                    <br><br>
+                    <span id="load">
+                        <button class="settings" style="color: #7D7D7D; cursor: auto;">Load Game</button>
+                    </span>
+                    <br><br>
+                    <span id="new">
+                        <button class="settings" onclick="startGame(0)">New Game</button>
+                    </span>
+                    <br><br>
+                    <span id="delete">
+                        <button class="settings" onclick="deleteSave()">Delete Save</button>
+                    </span>
+                    <br><br>
+                    <span class="feedback" id="feedback"></span>
+                </p>
+            </div>
+            <div class="menu__stats">
+                <h4>Character Statistics</h4>
+                <p class="hud">
+                    <!--Vitals should probably go Healthy > Injured > Wounded > Dead-->
+                    <p class="hud__health">Vital Signs: <span id="health">Unknown</span></p>
+                    <!--Oxygen is a similar system with all actions taking a certain percentage of O2-->
+                    <p class="hud__oxygen">Oxygen Levels: <span id="oxygen">???%</span></p>
+                    <!--Obviously, either running out is a game over-->
+                    <p class="hud__profit">Profits: <span id="profit">???</span> creds</p>
+                </p>
+            </div>
+            <div class="menu__links">
+                <footer class="links">
+                    <p class="text-center text-muted">
+                        <a href="https://github.com/alex-gillis" target="_blank">Github</a>
+                        <span>|</span>
+                        <a href="https://www.artstation.com/artwork/On5eg" target="_blank">Artwork</a>
+                    </p>
+                </footer> 
+            </div>
+        </div> 
+        <div class="journal">
+            <p id="story" class="story"> </p>
+            <div class="choices" id="choices">
+                <!--Choices will replace the main menu as it comes in-->
+                <div id="title" class="title">
+                    <!--Main Menu options will appear here-->
+                </div>
+            </div>
+            <div class="mobile_hud"> 
+                <table>
+                    <tr>
+                        <th colspan="2" style="text-align: center;">
+                            <span class="mobile_feedback" id="mobile_feedback"></span>
+                        </th>
+                    </tr>
+                    <tr>
+                        <th>
+                            <span id="mobile_save">
+                                <button class="mobile_settings" style="color: gray;">Save Game</button>
+                            </span>
+                        </th>
+                        <th>
+                            <div class="mobile_hud__health">
+                                Vital Signs: <span id="mobile_health">Unknown</span>
+                            </div>
+                        </th>
+                    </tr> 
+                    <tr>
+                        <th>
+                            <span id="mobile_load">
+                                <button class="mobile_settings" style="color: gray;">Load Game</button>
+                            </span>
+                        </th>
+                        <th>
+                            <div class="mobile_hud__oxygen">Oxygen Levels: <span id="mobile_oxygen">???%</span>
+                            </div>
+                        </th>
+                    </tr> 
+                    <tr>
+                        <th>
+                            <span id="delete">
+                                <button class="mobile_settings" onclick="deleteSave()">Delete Save</button>
+                            </span>
+                        </th>
+                        <th>
+                            <div class="mobile_hud__profit">Profits: 
+                                <span id="mobile_profit">???</span> creds
+                            </div>
+                        </th>
+                    </tr> 
+                    <tr>
+                        <th>
+                            <span id="new">
+                                <button class="mobile_settings" onclick="startGame(0)">New Game</button>
+                            </span>
+                        </th>
+                        <th style="text-align: right; padding-right: 10px;">
+                            <span class="text-center text-muted">
+                                <a href="https://github.com/alex-gillis" target="_blank">Github</a>
+                                <span>|</span>
+                                <a href="https://www.artstation.com/artwork/On5eg" target="_blank">Artwork</a>
+                            </span>
+                        </th>
+                    </tr> 
+                </table>
+            </div>
+        </div>
+        
+        <script type="text/javascript" src="./scripts.js"></script>  
+    </body>
+</html>

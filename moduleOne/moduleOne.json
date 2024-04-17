@@ -1,0 +1,619 @@
+{
+  "pages": [
+    {
+      "pageNum": 0,
+      "vitals": 0,
+      "oxygen": 0,
+      "profit": 0,
+      "story": "In the year 2122, the specific time of year holds little significance, especially when you're light-years away from any weather to experience. You're a scavenger—an explorer of abandoned wrecks, seeking anything of value that was left behind or could be salvaged. Despite the vastness of space, you're not entirely alone on this journey. Most ships come equipped with a standard personality unit known as V.I., a Virtual Intelligence designed to keep you company amidst the cosmic isolation.<br> <br> You recently received a tip about an abandoned station that reappeared on the radar not too long ago. Rumor has it, something went awry with a wormhole, or perhaps someone clumsily spilled blue milk on the main navigation computer, triggering an emergency hop into the unknown. Regardless of the specifics, what's clear is your desperate need for credits. It's a classic dilemma: risk incurring some hefty <div class='tooltip'>Federation<span class='tooltiptext'>The Galatic Federation is the biggest fish in known space, governing most inhabitant systems. You’ve only run afoul of them a few times, nothing serious. But you weren’t keen on starting now.</span></div> fines by illegally salvaging their property, or take the drastic step of selling your starship to avoid a fate where your legs end up resembling jelly.<br> <br> For you, there seems to be only one viable option...",
+      "choices": [
+        {
+          "option": "Proceed",
+          "nextPage": 1
+        }
+      ]
+    },
+    {
+      "pageNum": 1,
+      "vitals": 0,
+      "oxygen": 0,
+      "profit": 0,
+      "story": "Shaking off the haunting thoughts of debt collectors who might decide that galactic standard time isn't the same in this sector, you resolve to seize the opportunity while it's still available. With determination fueling your actions, you initiate the hyperspace sequence, feeling the familiar hum of your ship's engines as you propel yourself towards the abandoned station. The race is on, and you're determined to get there before a swarm of scavengers beat you to the potential treasure trove.<br> <br>Bringing the ship into hyperdrive, you leave the V.I. to mind the controls. Your biggest advantage, operating solo, lies in the speed and reaction time you can afford. In a profession flooded with opportunists and a constant influx of wrecks appearing in the sector, agility is your key to staying ahead. The need for speed has become a constant companion, making the ritual of checking equipment before emerging for work a well-practiced routine. As the stars streak into lines of light, you focus on the task ahead, eager to beat the competition to the secrets that the abandoned station may hold.<br> <br>Going over your equipment, you start with what has practically become like a second skin—the trusty space suit. You're always careful with the image link hooked into the helmet. This link goes straight to V.I. back on the ship, allowing her to feed you real-time information and values of the scrap you're eyeing for salvage. But don't think the only time pressure you have is your competition; no, you also have to contend with your greatest weakness as a spacer—your need for oxygen.",
+      "choices": [
+        {
+          "option": "Proceed",
+          "nextPage": 2
+        }
+      ]
+    },
+    {
+      "pageNum": 2,
+      "vitals": 0,
+      "oxygen": 0,
+      "profit": 0,
+      "story": "As you're about to check the condition of the tools on your suit's belt, V.I. alerts you to the closing proximity of your destination. Hyperspace travel has always been a tad more inexact than the techies would like you to believe. Nevertheless, it suited your purpose just fine as you slipped into your EVA suit and returned to the helm.<br><br>As soon as your seat cradled you, you dropped out of hyperspace just outside a debris field. Light from distant stars illuminated the shape of the station. Carefully, you piloted your freighter through the field, wincing at every small clunk of debris bouncing off the hull, too small to avoid. A few bodies amidst the wreckage seemed to have been flash-frozen, but that wasn't too abnormal for something like this.<br><br>Before long, you arrived at the most intact part of the station—the main building block and central core, referred to by shipbuilders and scrappers as module one. The colossal structure, hundreds of feet wide, was built almost in a circular fashion, part of a pillar designed to spin and maintain its position. Your sensors picked up the formerly welcoming sight of the hangar bay, where many travelers must have passed through in its prime. Now, it sat in the shadow of its own destruction, beckoning those who dared to enter its shady depths.<br><br>You've picked up a few instincts in your years of spacing through abandoned hulks of scrap. There are benefits to entering through the hangar—a faster escape, a good look at what you're getting into. The downside is, if security is still online, you might be facing at least a turret ready to shred you the moment you step into its sight.<br><br>And then there's the matter of high-value sites—officers' quarters, shops, and data banks—further inside, requiring more oxygen and time on the station. Even with the hangar approach, wandering too far from the ship is a risk.<br><br>Recalling an old trick your former employer taught you, the straightforward approach isn't the only option. The old maintenance hatches, used by engineers to access internal infrastructure, provide entry practically anywhere on the desired salvaging spot. It's a quick and easy route, but not always the best for a hasty escape. Your former employer met his demise, mauled by a <div class='tooltip'>starshade marauder<span class='tooltiptext'>Closest to the species of predatory cats located back on Earth. With the variance of surviving for extended periods in space, an extra set of legs, and the taste of humanoid spinal fluid.</span></div>, a testament to the risks involved.<br><br>Despite the potential danger, it offers more time to gather loot. As you weigh the pros and cons of each approach, considering the lure of quick rewards against the lurking threats, you make your decision...",
+      "choices": [
+        {
+          "option": "Land in the hanger bay",
+          "nextPage": 3
+        },
+        {
+          "option": "<span style='color:grey; cursor: auto;'>Find a maintenance hatch (Path coming soon!)</span>",
+          "nextPage": 2
+        },
+        {
+          "option": "Just leave",
+          "nextPage": 6
+        }
+      ]
+    },
+    {
+      "pageNum": 3,
+      "vitals": 0,
+      "oxygen": 0,
+      "profit": 0,
+      "story": "Just because you`re going fast doesn`t mean you can`t take the safer of the two options. Who is to say what sort of damages those internal tunnels took during the catastrophe anyway. Better to stick with the path of least resistance.<br><br>Carefully you guide the freighter into the open maw of the hangar bay, the headlights of the ship illuminating what you aren`t too surprised about. Wrecks of ships are too numerous to count litter the inside as you maneuver to a ``parking space``. All you really manage is a place half clear of the debris, enough to maglock the landing legs to keep from bumping into things.<br><br>Although as you`re getting out of the pilot’s seat, you notice that some of the ships aren’t complete write-offs. Maybe they`d have something on board that has a profit to be made on it.<br><br>That being said, just because it holds what could be a prize inside doesn`t mean it`s worth the oxygen you`re expending looking through it when you compare it to the markets and places inside the station you can strip.",
+      "choices": [
+        {
+          "option": "To the Markets",
+          "nextPage": 16
+        },
+        {
+          "option": "Scavenge the Ships",
+          "nextPage": 17
+        }
+      ]
+    },
+    {
+      "pageNum": 4,
+      "vitals": 0,
+      "oxygen": -2,
+      "profit": 0,
+      "story": "You bring your freighter around the outside of the station in a corkscrew, scanning carefully with both your experienced eyes and the ship's sensors for your target.<br><br>Towards the far end of the station module, counter to the hangar bay you originally spotted, lies the hatch. For safety purposes, in case of pirates or unforeseen space monstrosities, designers usually placed key functioning stations on the opposite end from the main hangars.<br><br>Descending the ship, you land just above the hatch before magnetizing to the station hull with the landing legs. Exiting the airlock on your freighter, you prepare for the short spacewalk to the hatch.<br><br>These hatches are designed with the assumption that, in the event of catastrophic system failure, they should be easy to open. Besides, if an unwanted guest were to use them as an entrance, the security system should be notified. Given how long this place has supposedly been inactive, you doubt many of those systems are still operational.<br><br>You open the hatch and crawl in among the piping, activating the night vision function of your helmet, painting everything in a soft blue glow. The passage isn't spacious, measuring between 2 to 2.5 feet—enough to move through but not comfortably turn around. As an experienced spacer, the claustrophobic view and navigating in your bulky suit aren't new to you.<br><br>You crawl for a couple of dozen yards until you find a connecting hatch into the station proper.<br><br>Popping your head out like a gopher, you survey the expected debris. The halls of this station have clearly seen better days, with trash littering the floors. However, the most crucial observation is the absence of signs of recent fighting or anything that might pose an immediate threat. In the limited gravity, pulling yourself into the hall is effortless.<br><br>A sign with a couple of directions catches your eye—now, which way will you choose?",
+      "choices": [
+        {
+          "option": "The Officers' Quarters",
+          "nextPage": 10
+        },
+        {
+          "option": "The Data Banks",
+          "nextPage": 11
+        },
+        {
+          "option": "The Bridge",
+          "nextPage": 12
+        }
+      ]
+    },
+    {
+      "pageNum": 5,
+      "vitals": 0,
+      "oxygen": 0,
+      "profit": 0,
+      "story": "Return to the ship",
+      "choices": [
+        {
+          "option": "Leave",
+          "nextPage": 7
+        },
+        {
+          "option": "Refill air and head back inside",
+          "nextPage": 7
+        }
+      ]
+    },
+    {
+      "pageNum": 6,
+      "vitals": 0,
+      "oxygen": 0,
+      "profit": 0,
+      "story": "''<div class='tooltip'>Doints <span class='tooltiptext'>A common practice that ended up being picked up by star pilots and spacers alike is to swear in mathematical terms to cut down on profanity, this one in particular being shorted from ''Decimal Point''</span></div> to this!'' you say to yourself. <br> <br> You decide that the debt collectors are the better call. At least with them you know what to expect...",
+      "choices": [
+        {
+          "option": "But don't you want to actually try?",
+          "nextPage": 37
+        }
+      ]
+    },
+    {
+      "pageNum": 7,
+      "vitals": 0,
+      "oxygen": 0,
+      "profit": 0,
+      "story": "Unknown Page",
+      "choices": [
+        {
+          "option": "Start Again?",
+          "nextPage": 0
+        }
+      ]
+    },
+    {
+      "pageNum": 8,
+      "vitals": -3,
+      "oxygen": 0,
+      "profit": 0,
+      "story": "Whether it be by a mishap with a machine or a monster that wants to eat your bones. <br> <br> It doesn't really matter now... <br> <br> Because you're <span style='font-weight: bold; text-decoration: underline;'> dead</span>. <br> <br> Sorry to break it to you...",
+      "choices": [
+        {
+          "option": "Want to try again?",
+          "nextPage": 0
+        }
+      ]
+    },
+    {
+      "pageNum": 9,
+      "vitals": 0,
+      "oxygen": 0,
+      "profit": 0,
+      "story": "As the last of your remaining oxygen is drained from your oxygen tanks, the warning alarms notifying you that you have taken what should have been your last breath... <br> <br> This should be alarming, a fear gripping your heart... <br> <br> But the most depressing part is that your final thought is a stupid metal song from the 21st century",
+      "choices": [
+        {
+          "option": "Want to try again?",
+          "nextPage": 0
+        }
+      ]
+    },
+    {
+      "pageNum": 10,
+      "vitals": 0,
+      "oxygen": -2,
+      "profit": 0,
+      "story": "Choosing the Officers' Quarters as your starting point makes sense. Your experience tells you that most station officers tend to be more concerned with lining their own pockets than maintaining order. You recall the guy responsible for parking fees back at Ritzico City, always finding ways to fleece spacers for as long as you can remember.<br><br>As you carefully make your way down the hall, you take solace in imagining stripping down that particular officer's place to the piping. The only sounds accompanying you are the echoing stomps of your boots, magnetizing and demagnetizing on the metallic floor, now devoid of the atmosphere that once filled this space.<br><br>Passing more heaps of debris, you notice what appear to be electrical burn marks along some of the hallway plating. They create a peculiar connect-the-dots picture across the hall. A little further down, you spot the sign that once proudly read ''Officers' Quarters,'' its glowing letters now dark and lifeless like the rest of the station.<br><br>Hopefully, you won't be joining them.",
+      "choices": [
+        {
+          "option": "Enter the quarters",
+          "nextPage": 13
+        }, {
+          "option": "Wait, what was that about scortch marks?",
+          "nextPage": 14
+        }
+      ]
+    },
+    {
+      "pageNum": 11,
+      "vitals": 0,
+      "oxygen": 0,
+      "profit": 0,
+      "story": "The Data Banks are not finished yet",
+      "choices": [
+        {
+          "option": "Want to try again?",
+          "nextPage": 0
+        }
+      ]
+    },
+    {
+      "pageNum": 12,
+      "vitals": 0,
+      "oxygen": 0,
+      "profit": 0,
+      "story": "The Bridge is not finished yet",
+      "choices": [
+        {
+          "option": "Want to try again?",
+          "nextPage": 0
+        }
+      ]
+    },
+    {
+      "pageNum": 13,
+      "vitals": 0,
+      "oxygen": 0,
+      "profit": 0,
+      "story": "Entering the Officers' Quarters is not finished yet",
+      "choices": [
+        {
+          "option": "Want to try again?",
+          "nextPage": 0
+        }
+      ]
+    },
+    {
+      "pageNum": 14,
+      "vitals": 0,
+      "oxygen": 0,
+      "profit": 0,
+      "story": "Questioning about the Scortch Marks is not finished yet",
+      "choices": [
+        {
+          "option": "Carefully enter the Officers' Quarters",
+          "nextPage": 15
+        }
+      ]
+    },
+    {
+      "pageNum": 15,
+      "vitals": 0,
+      "oxygen": 0,
+      "profit": 0,
+      "story": "Carefully entering the Officers' Quarters is not finished yet",
+      "choices": [
+        {
+          "option": "Want to try again?",
+          "nextPage": 0
+        }
+      ]
+    },
+    {
+      "pageNum": 16,
+      "vitals": 0,
+      "oxygen": -4.5,
+      "profit": 0,
+      "story": "Stepping out from the hangar into the dark, awaiting halls of the station's interior, you find yourself in the depressurized part of the module. The only sound greeting you is the rhythmic clunk of your boots magnetizing and demagnetizing to the floor as you walk. You consider whistling for a moment, but the tight confines of your helmet make you think better of that impulse.<br><br>Continuing your trek towards the markets, you follow the garishly painted arrows and signs displayed first thing through the hangar door. The halls don't surprise you – luggage floats loose from those trying to escape, and some corpses remain half-preserved in the vacuum. You sift through some of the luggage as you wander through until you reach the market proper.<br><br>Most stations you've been in had a mix of strip mall meets bazaar, and this module is no different. To your surprise, however, this is the first indication of what might have happened to the station – proof that it wasn't a quiet drifting off into the night.<br><br>Some booths that litter the hallway where people would hawk wares are riddled with blaster markings, others destroyed outright. One booth even has the destroyed remains of a security droid. Upon closer inspection, it seems that the power cell overheated or one of the cooling lines ruptured, causing a catastrophic malfunction that made its upper body explode like an egg in a microwave.<br><br>Either way, it was either extremely lucky for the attacker or something just that deadly. Regardless, you hope you won't have to find out and turn your attention towards your objective.<br><br>As you glance around, you notice some of the stores that have weathered the passage of time since the station's disappearance. Unfortunately, most of them seem to offer only trinkets and gift-shop-level items. It's the common pitfall of markets near the main hangar, trying to entice you with novelty before you embark on your journey, whether it be to stay or to leave.<br><br>On the other hand, scattered booths present themselves throughout the area. Granted, some bear the scars of an apparent skirmish that unfolded here some time ago. Yet, the intact ones, resilient against the whims of fate, might still hold something of value.",
+      "choices": [
+        {
+          "option": "Try the Stores",
+          "nextPage": 22
+        },{
+          "option": "No, the Booths",
+          "nextPage": 23
+        }
+      ]
+    },
+    {
+      "pageNum": 17,
+      "vitals": 0,
+      "oxygen": 0,
+      "profit": 0,
+      "story": "Even if it wasn`t the jackpot, profit is profit is profit. All adds up in the end. That was your thought moving down the boarding ramp and out into the ruins of the shipyard.<br><br>Many of the ships seemed to have been damaged in what must have been the tumble of warp travel. Worthless odds and ends of different ships laid beaten and battered all around you in heaps, but two stood out amongst the rest.<br><br>On, what is currently your ceiling, you can see where a freighter with wide thrusters seemed to have plowed into the ceiling, burying its nose cone up to the front landing leg. You hazard a guess that it must’ve been one of the few that tried to escape but must have waited too long to do so or the pilot got jumpy and panicked.<br><br>The other ship that catches your eye seemed to be one that looked like it was owned by someone who must’ve been loaded. How can you identify that? Well, you see a lot of rich folks spend their wealth on ships that aren’t truly meant for flying. This ship is shaped more like a pear than a proper ship. The only ship still intact was on its landing legs. Designed with more accessories than actually necessary bits.<br><br>You didn’t quite travel in those circles much, but you know that many pirates refer to this kind of ship as “the dinner bell” because of its shape and being a payday for any of your less honor-bound cohorts.",
+      "choices": [
+        {
+          "option": "The Crashed Ship",
+          "nextPage": 18
+        },{
+          "option": "The Yacht",
+          "nextPage": 19
+        }
+      ]
+    },
+    {
+      "pageNum": 18,
+      "vitals": 0,
+      "oxygen": -6.5,
+      "profit": 3000,
+      "story": "Looking back up to the ceiling, you leap off the floor, propelling yourself towards the ship without bothering to use any of your limited jump juice for course correction.<br><br>In your approach, you get a nice view of the ship. It's a faster model, not quite a fighter craft, but the wear and tear suggests it's a proper spacer's craft, not some wannabe. It's not too dissimilar to your own, now that you think about it.<br><br>Using a tiny bit of jump juice to soften the landing, you arrive at the opening to the cargo bay. The crash left the hatch slightly askew, and while repairing it would be a hassle, you don't need to worry about that.<br><br>You take out the favorite tool in your toolbox—the <div class='tooltip'>Space Tool for Extraterrestrial Work or S.T.E.W.<span class='tooltiptext'>This cylindrical device has a control panel near the handle contains various tools in a compact design, maybe larger than a standard fire extinguisher. From an illuminator to a welder, the latter is your preferred pick for this task.</span></div> The front barrel of S.T.E.W. splits into four claws, forming a containment field for a plasma blade. Carefully cutting out the hatch, you make the opening large enough to avoid squeezing through.<br><br>Crawling inward, you find the cargo bay filled with the exact kinds of treasures you're looking for. It's almost as if someone did all the work for you, stripping down what must have been the yacht you spotted still parked in the hangar. However, reality hits when you realize how badly damaged most of it is—a collection of Fabergé eggs smashed to pieces, designer clothes burned from a fuel line rupture, and fancy furniture with real wood now damaged beyond repair. All because someone didn't know how to properly secure cargo in an emergency.<br><br>Just as you're about to give up in frustration, you decide to check the cockpit, crawling your way through the bent halls to the main deck where the pilot seems to have had a real tough time. Much of their body is reduced to mush, making it difficult to identify the species. There are some human-looking limb arrangements, but then there's this weird tail of black carapace—unidentifiable.<br><br>Disappointing, but you're not ready to be discouraged yet. As you turn to crawl back out, you notice a small box floating in a corner. Upon investigation, you find it contains a strange glass chalice. This could be worth something.",
+      "choices": [
+        {
+          "option": "To the Markets",
+          "nextPage": 16
+        },{
+          "option": "The Yacht",
+          "nextPage": 20
+        }
+      ]
+    },
+    {
+      "pageNum": 19,
+      "vitals": 0,
+      "oxygen": -6,
+      "profit": 500,
+      "story": "Instead of trying to find a path around the rubble of destroyed ships that block your way to the yacht, you stretch your legs and take a running jump towards the more expensive starship. With artificial gravity inactive on the station, your leap lacks the usual graceful arc of a normal jump. Instead, you propel yourself forward, overshooting the yacht slightly—fortunately, that's what your jump juice is for.<br><br>Using a small burst of air from your suit's propulsion system, you correct your trajectory to land on the side of the yacht. As you take out the favorite tool in your toolbox—the <div class='tooltip'>Space Tool for Extraterrestrial Work or S.T.E.W.<span class='tooltiptext'>This cylindrical device has a control panel near the handle contains various tools in a compact design, maybe larger than a standard fire extinguisher. From an illuminator to a welder, the latter is your preferred pick for this task.</span></div> for short.—you notice that the closest hatch is already cut open, similar to a tool like S.T.E.W.<br><br>This is never a good sign, and out of habit, you approach with a hand on the cylindrical tool's handle. It's not necessarily a weapon, but it's better than nothing. Worry sinks into your gut like a stone, wondering if another scavenger beat you to the station, and you simply missed their vessel. There could be a hidden danger that caused the station's fall, like a horde of killer robots hellbent on rending flesh from bone, waiting inside for you.<br><br>But no, nothing could be worse than what you see when you look inside. Nothing fills you with more horror than spotting that the interior of the yacht is stripped bare of anything of value. You frantically check the drawers of the remaining furniture, any closets in the rooms, under the floating beds—no longer connected to the flooring as looters even took some of the carpeting.<br><br>You manage to find a couple of knick-knacks the looters must've missed, but so far, nothing to make this trip worthwhile. The air in your suit feels thinner as you weigh your options in the eerie silence of the stripped yacht.",
+      "choices": [
+        {
+          "option": "To the Markets",
+          "nextPage": 16
+        },{
+          "option": "The Crashed Ship",
+          "nextPage": 21
+        }
+      ]
+    },
+    {
+      "pageNum": 20,
+      "vitals": 0,
+      "oxygen": -6.5,
+      "profit": 300,
+      "story": "From your vantage point in the cut-open cargo bay, you easily spot the yacht. With a stretch of your legs, you take a running jump towards the more expensive starship, ensuring a clear descent with your angle on the vessel.<br><br>Using a small burst of air from your suit's propulsion system, you correct your trajectory to land on the side of the yacht. As you take out the favorite tool in your toolbox again, you notice that the closest hatch is already cut open, likely with a similar tool to the S.T.E.W.<br><br>This is never a good sign, and out of habit, you approach with a hand on the cylindrical tool's handle. It's not necessarily a weapon, but it's better than nothing. Worry sinks into your gut like a stone, wondering if another scavenger beat you to the station, and you simply missed their vessel. There could be a hidden danger that caused the station's fall, like a horde of killer robots hellbent on rending flesh from bone, waiting inside for you.<br><br>But no, nothing could be worse than what you see when you look inside. Nothing fills you with more horror than spotting that the interior of the yacht is stripped bare of anything of value. This must have been where the crashed vessel got all its loot, apparently stopping for a robbery before fleeing the station—their greed likely causing their crash.<br><br>Not expecting to find much left behind, you do one token search of the rooms that you'd guess held value, coming up with a handful of trinkets that likely won't sell for much, but at least it's something. The disappointment lingers as you float in the stripped-down interior, contemplating your next move in the eerie silence of the looted yacht.",
+      "choices": [
+        {
+          "option": "To the Markets",
+          "nextPage": 16
+        }
+      ]
+    },
+    {
+      "pageNum": 21,
+      "vitals": 0,
+      "oxygen": -3,
+      "profit": 3000,
+      "story": "Stepping out of the hatch you entered from, you look back up to the ceiling, searching for your other target before you spot it and take the leap. You propel yourself towards the ship without bothering to use any of your limited jump juice for course correction.<br><br>In your approach, you get a nice view of the ship. It's a faster model, not quite a fighter craft, but the wear and tear suggests it's a proper spacer's craft, not some wannabe. It's not too dissimilar to your own, now that you think about it.<br><br>Using a tiny bit of jump juice to soften the landing, you arrive at the opening to the cargo bay. The crash left the hatch slightly askew, and while repairing it would be a hassle, you don't need to worry about that.<br><br>You take out the Space Tool for Extraterrestrial Work or S.T.E.W. properly this time. The cylindrical device with a control panel near the handle contains various tools in a compact design, maybe larger than a standard fire extinguisher. From an illuminator to a welder, the latter is your preferred pick for this task. The front barrel of S.T.E.W. splits into four claws, forming a containment field for a plasma blade. Carefully cutting out the hatch, you make the opening large enough to avoid squeezing through.<br><br>Crawling inward, you find the cargo bay filled with the spoils you realize must have come from the yacht. Although it isn't all good news, as you realize how badly damaged most of it is—a collection of Fabergé eggs smashed to pieces, designer clothes burned from a fuel line rupture, and fancy furniture with real wood now damaged beyond repair. All because someone didn't know how to properly secure cargo in an emergency.<br><br>Just as you're about to give up in frustration, you decide to check the cockpit, crawling your way through the bent halls to the main deck where the pilot seems to have had a real tough time. Much of their body is reduced to mush, making it difficult to identify the species. There are some human-looking limb arrangements, but then there's this weird tail of black carapace—unidentifiable.<br><br>Disappointing, but you're not ready to be discouraged yet. As you turn to crawl back out, you notice a small box floating in a corner. Upon investigation, you find it contains a strange glass chalice. This could be worth something if nothing else. The air in the stripped-down cargo bay feels thick with disappointment, but you press on, determined to salvage what you can from this wrecked station.",
+      "choices": [
+        {
+          "option": "To the Markets",
+          "nextPage": 16
+        }
+      ]
+    },
+    {
+      "pageNum": 22,
+      "vitals": 0,
+      "oxygen": -1.5,
+      "profit": 5,
+      "story": "As you stroll down the line of shops, scanning for anything that catches your eye, you encounter some familiar names from other stations, ranging from Spacer's Choice to Orbital Options. Among the eclectic assortment, you spot a stuffed version of an <div class='tooltip'>Astrokraken<span class='tooltiptext'>The Astrokraken, a mysterious and colossal space-dwelling entity, bears a striking resemblance to a squid but has adapted to the vast expanses of the cosmic depths. Renowned for its elusive nature and formidable presence, this enigmatic creature is infamous for its recurrent attacks on shipping routes along the outersphere. Its disruptive activities have led to the necessity of increased patrols in these remote regions, as the Astrokraken's unpredictable movements pose a constant threat to interstellar navigation and trade. The mere mention of its name sends shivers through the spines of those who brave the outer reaches of space.</span></div>. Curiosity gets the better of you, and you give it an experimental squeeze. Despite its almost cute appearance, the reminder of the creature's destructive capabilities dampens any whimsical thoughts.<br><br>Keeping the stuffed Astrokraken as a momentary companion in your search for loot, you saunter past what initially appears to be another damaged storefront. The security gate lies in ruins, seemingly melted in a fierce firefight. However, upon closer inspection, you realize that beyond the initial few feet, the store appears to be untouched. A closer look reveals that this is, in fact, a robotics shop.<br><br>Casting a glance at your dodecagoned-limbed companion, you deactivate your mag-boots and float through the melted hole in the security gate. Inside, the night-vision of your helmet illuminates the shop, still filled with scattered robotics. It appears most of the chaos stemmed from the station's <div class='tooltip'>gravity generators<span class='tooltiptext'>A common system on most space-faring vessels meant for habitation. And also one of the first things to fail during a catastrophe as power is usually routed away from non-vital systems. Which always struck you as odd because, from experience, panicking in zero-gs is usually more difficult than standard gravity.</span></div> going haywire during the catastrophe.<br><br>You explain to the kraken perched on your shoulder that many storefronts don't magnetize their models, especially if they want to showcase the potential capabilities to consumers. Giving the chance for this scattering of robotic parts.<br><br>Approaching what your trained eye deems the most promising model, a <div class='tooltip'>Quantum Voyager<span class='tooltiptext'>The Voyager has a spherical core encased in a shimmering metallic exoskeleton with extendable arms and legs. Its surface is adorned with pulsating LED lights that change colors based on its operational state. The central core emits a soft, ethereal glow, and its limbs are equipped with advanced tools and sensors for versatile space missions.</span></div>, you find it in surprisingly good condition. Giving it a few taps, you notice a flicker from a long-dead battery attempting to come back to life. However, your attention is diverted as you spot something odd...",
+      "choices": [
+        {
+          "option": "Proceed",
+          "nextPage": 24
+        }
+      ]
+    },
+    {
+      "pageNum": 23,
+      "vitals": 0,
+      "oxygen": -7,
+      "profit": 1350,
+      "story": "With newfound determination, you continue your exploration of the booths. Each one offers a glimpse into the diverse and eclectic wares that were once available in this bustling market. You discover remnants of stores that sold everything from exotic spices to customized space suits. The vacuum-sealed environment has preserved some items surprisingly well.<br><br>One booth catches your eye as you approach it. It seems to have been a specialty store for rare collectibles and artifacts. The kind of place that caters to the more discerning clientele. Your scavenger instincts kick in, and you quickly locate the lockbox tucked away beneath the counter.<br><br>This time, your trusty Space Tool for Extraterrestrial Work (S.T.E.W.) comes in handy. With a swift and precise cut, you manage to pry open the lock and reveal the contents inside. To your delight, you find an assortment of trinkets, small sculptures, and what looks like an antique holographic display.<br><br>As you sift through the loot, you can't help but feel a sense of triumph. The station might be in disarray, but you're turning it into your own treasure trove. It's a small victory, but in the vastness of space, every find counts.<br><br>What will you do next? The market still holds many mysteries and potential discoveries. There are more booths to explore, and who knows what valuable items might be hidden among the remnants of this abandoned station.",
+      "choices": [
+        {
+          "option": "Try the Stores",
+          "nextPage": 22
+        }
+      ]
+    },
+    {
+      "pageNum": 24,
+      "vitals": 0,
+      "oxygen": -0.25,
+      "profit": 0,
+      "story": "As you turn the Quantum Voyager over to inspect the back of its chassis, you discover a disconcerting sight - the place where the legs should extend out has been torn out, and the inner components are stripped as if scavenged for valuable scraps. Oddly, the valuables such as optic cables and fine motors remain intact, with only the components constituting the robot's ''brain'' and the cooling systems missing.<br><br>A systematic pattern emerges as you survey the other nearby drones – several others have been dissected in the same precise manner, focusing on the weakest point closest to the operating systems. Some are missing additional crucial parts, like their main motors for towing capacity or engines.<br><br>Just as you contemplate salvaging valuable components from the dismantled drones, a dreaded sight catches your attention – a growing red light towards the end of the room. A red optic focuses on you, instilling fear like a knife to the heart. You recognize it as a robot crafted from various exoskeletons, robots, and vehicles, commonly referred to as <div class='tooltip'>Frankenstiens, Singularities or Evolved Bots. <span class='tooltiptext'>These creations, born from a flaw in survival protocols, scavenged from other machines to survive, often becoming dangerously advanced and perceiving anything as a threat.</span></div><br><br>Now faced with an impending threat, you weigh your options:<br><br>Run: Attempting to escape, hoping it won't consider your suit worth chasing. Although, these evolved bots seldom pass up an opportunity to acquire fresh technology.<br><br>Fight: Take on the evolved bot in combat. However, given its hodgepodge construction, you're unsure of its physical capabilities.<br><br>Pretend to be Insignificant: Try to deceive it by pretending not to be anything special, maybe even turning off your suit systems to avoid emitting a power reading. This is a risky move, and if discovered, you might end up having to run anyway.<br><br>What will you choose?",
+      "choices": [
+        {
+          "option": "Flee from it",
+          "nextPage": 25
+        },{
+          "option": "Fight it",
+          "nextPage": 26
+        },{
+          "option": "Play Possum",
+          "nextPage": 28
+        }
+      ]
+    },
+    {
+      "pageNum": 25,
+      "vitals": 0,
+      "oxygen": -0.25,
+      "profit": -5,
+      "story": "Without wasting a moment, you hurl the husk of the Quantum Voyager at the Frankensteined bot, not bothering to check if it connects. The sudden movement causes the astrokraken to tumble from your shoulder, perhaps a valiant sacrifice on the plush companion's behalf. However, you can't dwell on it now as you sprint away.<br><br>Diving through the hole melted in the gate, you contemplate your next move.<br><br>Retreat to the Ship: Consider heading back to your ship, regrouping, and maybe exploring another route in the hope of finding the profits you seek.<br>Dash Deeper into the Station: Opt to plunge deeper into the station, hoping to discover something that can be used to confront and defeat the relentless bot.",
+      "choices": [
+        {
+          "option": "Back towards the ship",
+          "nextPage": 32
+        },
+        {
+          "option": "Dash deeper into the station",
+          "nextPage": 33
+        },{
+          "option": "Leave no man behind! Return for the astrokraken",
+          "nextPage": 31
+        }
+      ]
+    },
+    {
+      "pageNum": 26,
+      "vitals": 0,
+      "oxygen": -0.25,
+      "profit": 0,
+      "story": "With bravery in your heart and the husk of the Voyager as your makeshift weapon, you leap toward the robotic threat, intent on smashing the plastic chassis into the cyclop's optic. The plan works well for the first couple of strikes, but two critical oversights come into play.<br><br>Firstly, the Voyager was never renowned for its durability. The plastic hull shatters in your hands upon impact with the metal exoskeleton of the Singularity. In fact, you recall there being a recall notice due to the droid's body collapsing under anything beyond Earth gravity.<br><br>Secondly, your attack relies heavily on the element of surprise, and that advantage swiftly evaporates when dealing with an enhanced droid like this Frankenstein creation.<br><br>Before you can reach for your S.T.E.W. as a last-ditch makeshift weapon, the front spike-like leg shoots out, piercing your arm and pinning you down to the floor by your bicep. Echoes of pain resonate in your helmet as, now immobilized, you helplessly witness the machine, with superior strength, extracting the desirable components from your gear.<br><br>The dire situation leaves you at the mercy of the relentless Singularity.",
+      "choices": [
+        {
+          "option": "Proceed",
+          "nextPage": 27
+        }
+      ]
+    },
+    {
+      "pageNum": 27,
+      "vitals": 0,
+      "oxygen": -0.25,
+      "profit": 0,
+      "story": "In the desolate darkness of the station, mercy is a program absent from the scavenged repertoire of the relentless droid. After stripping your suit of vital components, you attempt to limp your way back to your freighter. However, lost in the obscurity of the station with no clear path, your last remaining oxygen dwindles away.<br><br>As your breaths cease, at least you find solace in the fact that you won't face eternity alone. Your astrokraken, a faithful companion, will remain by your side for the rest of time.",
+      "choices": [
+        {
+          "option": "Want to try again?",
+          "nextPage": 0
+        }
+      ]
+    },
+    {
+      "pageNum": 28,
+      "vitals": 0,
+      "oxygen": -0.15,
+      "profit": 0,
+      "story": "In the face of the cobbled-together monstrosity, you defy the conventional options of fight or flight and choose the lesser-known third option – freeze. Like a deer in the headlights, you stand still, watching as the robotic horror advances toward you.<br><br>Immobile, you sense the vibrations through the metal flooring as the creature's mechanical legs anchor itself to prevent floating off in the anti-gravity environment. Remaining perfectly still, you even have V.I. deactivate the extra systems of your suit, including the night vision built into your helmet. The darkness of the void envelops you, leaving only the ominous glow of the red eye from the approaching droid.<br><br>In the dim light, you can just barely make out the front leg splitting into a claw, evidently intending to inspect and potentially pilfer equipment from your suit. A bead of sweat forms on your neck as you grapple with the decision to either commit to action or attempt a daring escape...",
+      "choices": [
+        {
+          "option": "Commit to the bit",
+          "nextPage": 29
+        },{
+          "option": "Bail like a coward",
+          "nextPage": 30
+        }
+      ]
+    },
+    {
+      "pageNum": 29,
+      "vitals": 0,
+      "oxygen": -0.15,
+      "profit": 0,
+      "story": "In this dire moment, you draw upon all the skills honed during high school plays. Yet, as the robot systematically extracts vital components from your suit, you come to a grim realization about the flaw in your years of theatrical practice. All those times of pretending to be a tree never quite ended well for you, and it seems this won't be any different.<br><br>As your consciousness starts to fade due to the lack of oxygen, your loyal companion, the astrokraken, offers you a comforting sentiment—the same one your mom shared after every play: ''You made one hell of a tree.''",
+      "choices": [
+        {
+          "option": "Want to try again?",
+          "nextPage": 0
+        }
+      ]
+    },
+    {
+      "pageNum": 30,
+      "vitals": -1,
+      "oxygen": -0.1,
+      "profit": -5,
+      "story": "Fear finally takes hold, and you realize the gravity of your decision. Like attempting to exit a conversation with your Uncle Spanky, you desperately try to bail. Turning your suit systems back on, you initiate a sprint to escape once more. Sensing your panic, the unsecured astrokraken valiantly flies from your shoulder, interposing itself between you and the attacking drone. Despite its brave attempt to save you, the singularity still manages to land a swipe on your back (much like your encounters with Uncle Spanky). This results in an injury that will undoubtedly scar, but you can still move.<br><br>Diving through the hole melted in the gate, you contemplate your next move.<br><br>Retreat to the Ship: Consider heading back to your ship, regrouping, and maybe exploring another route in the hope of finding the profits you seek.<br>Dash Deeper into the Station: Opt to plunge deeper into the station, hoping to discover something that can be used to confront and defeat the relentless bot.",
+      "choices": [
+        {
+          "option": "Back towards the ship",
+          "nextPage": 32
+        },
+        {
+          "option": "Dash deeper into the station",
+          "nextPage": 37
+        }
+      ]
+    },
+    {
+      "pageNum": 31,
+      "vitals": -1,
+      "oxygen": -0.1,
+      "profit": 5,
+      "story": "Realizing that the brief time you've spent with the astrokraken has been some of the best on the station, you refuse to leave such a good friend behind. As your faithful companion valiantly attempts to hold off your pursuer, you abruptly change direction. Halting like an archaeologist who forgot his hat, you snatch the astrokraken from where it fell and swiftly turn around.<br><br>Regrettably, this momentary pause opens you up to the drone, and it seizes the opportunity, slashing your side with a quick, painful strike. However, you're willing to endure great sacrifices for great friends! Sprinting away from the drone, you feel the suit self-repairing, buying you precious time to escape, even with the singularity hot on your heels.",
+      "choices": [
+        {
+          "option": "Back towards the ship",
+          "nextPage": 32
+        },
+        {
+          "option": "Dash deeper into the station",
+          "nextPage": 37
+        }
+      ]
+    },
+    {
+      "pageNum": 32,
+      "vitals": 0,
+      "oxygen": -5.2,
+      "profit": 0,
+      "story": "With the Frankenstein bot hot on your heels, you sprint back towards your freighter.<br><br>Though hauling salvage in zero-g isn't exactly the best workout for building muscle, your endurance and agility are anything but lacking. Activating your helmet's night vision, you dive forward, utilizing the jump juice to propel yourself through the halls at an accelerated speed. The urgent, rhythmic stabs into the metal flooring behind you signal the relentless pursuit of the droid.<br><br>Upon reaching the hangar, surrounded by the wreckage of destroyed ships, you quickly contact V.I. through your comm system, instructing her to open the entrance ramp. A brief glance over your shoulder reveals the relentless droid, scaling the hangar wall in a desperate attempt to reach your ship. It seems to have realized your destination and is determined to leap onto the vessel.<br><br>Fortunately, this pursuit gives you a window to reach the ramp. You hope that the ship's hull will serve as a protective barrier between you and the cannibalistic droid. The moment you settle into the pilot's seat, you engage the retrothrusters to reverse out of the hangar.<br><br>Regrettably, through the front viewing screen, you can only watch as the droid leaps and lands just before you. Its red glowing eye focuses on you, seemingly delighted at the prospect of fresh working electronics.<br><br>The urgency is clear – you need to get it off. NOW.",
+      "choices": [
+        {
+          "option": "Try to shake it off",
+          "nextPage": 33
+        },{
+          "option": "Try to scrape it off",
+          "nextPage": 34
+        }
+      ]
+    },
+    {
+      "pageNum": 33,
+      "vitals": 0,
+      "oxygen": 0,
+      "profit": 0,
+      "story": "As you witness the mechanical arms of the Frankensteined droid tearing off panels from your ship, desperation kicks in. You know you must act swiftly before it reaches the vital components of your vessel. Trusting your gut instinct, you opt to shake off the unwelcome intruder from your nose cone before it inflicts serious damage. <br><br>Immediately, you begin to swerve and spin, attempting to dislodge the unwanted passenger. However, there are two glaring problems with this approach. First, you're not fully clear of the hangar bay, and flying recklessly within its crowded confines is a recipe for disaster. Second, your hasty maneuvers cause you to collide with a floating wreck of a ship, sending you spinning in the opposite direction and disorienting your internal sense of direction. Ignoring the safety of your seatbelt in your rush to take off, you collide with the floor (or was it the wall?) of the hangar.<br><br>The terrible scraping noise of your ship's nose dragging across the metal surface fills the air, amplifying your fear of the consequences of a blind, uncontrolled flight into the black void. However, luck seems to be on your side as you back into the yacht, and its maglocked landing legs hold firm.<br><br>With great effort, you manage to rise to your feet and stagger back towards the controls. As you prepare to try another maneuver, your hand poised over the thrust control, you notice the drone has moved to the windshield. With a swift crack, one of its claw-like legs stabs through the foot of glass like a knife through butter.<br><br>In an instant, the horrific sound of your ship's internal atmosphere being sucked through the inch-wide hole fills the cockpit, pulling you towards it and causing the thrust control to blast forward instead of reverse.<br><br>Before you can regain control of the ship, your world goes black with a horrible crunching sound. You join the other scavenger's ship, flattened against the roof of the hangar. <br><br>But at least, you took the droid down with you... right?",
+      "choices": [
+        {
+          "option": "Want to try again?",
+          "nextPage": 0
+        }
+      ]
+    },
+    {
+      "pageNum": 34,
+      "vitals": 0,
+      "oxygen": -1,
+      "profit": 0,
+      "story": "Blasting the <div class='tooltip'>retro-rockets<span class='tooltiptext'>retro-rockets are the rockets usually used for reverse thrust or slowing the descent to a planet's surface.</span></div> at full speed in reverse, you make a daring move. Instead of angling towards the hangar's opening back into space, you head straight up towards the ceiling. Through the front viewport, you witness the drone pulling up and detaching a panel from the hull of your freighter. It's unclear whether the singularity thinks this is the quickest route to you or if it's simply too absorbed in its single-minded mission of acquiring more tech. <br><br>As you accelerate towards the ceiling, nearly destined to join the other ship lodged nose-first, you execute a last-minute turn. The top end of your freighter's nose slams into the ceiling with a resounding thud, eliciting a protest from your ship's frame. With the reverse thrusters still engaged, your ship's nose briefly scrapes along the ceiling as you back away. <br><br>In the spot where the singularity was once tearing into your hull, there's now nothing but the remnants of what appears to be the junk droid. Reduced to nothing more than scrap. If you hadn't just flattened it, that could have been a valuable find, fetching a handsome sum if you managed to keep it long enough to locate a buyer. <br><br>But for now... you've survived this particular threat, allowing you to heave a sigh of relief.",
+      "choices": [
+        {
+          "option": "Proceed",
+          "nextPage": 35
+        }
+      ]
+    },
+    {
+      "pageNum": 35,
+      "vitals": 0,
+      "oxygen": 0,
+      "profit": 0,
+      "story": "With a sense of relief mixed with lingering dread, you complete your retreat from the station, opting not to delve back into its ominous depths to uncover more horrors. As you ponder what could have caused the station's chaotic state, you push the thought aside, focusing instead on your immediate concerns. <br><br> Despite the harrowing encounter and the uncertainties of the station's fate, you find solace in the small haul you managed to salvage. It may not be much, but it should buy you some time with the loan sharks, sparing your limbs from the threat of being mangled by an alien with a pipe wrench for at least another week. <br><br> With a heavy but grateful heart, you set course for the nearest port, eager to offload your salvage and collect whatever credits you can to keep your creditors at bay. As the stars streak by outside your viewport, you can't help but wonder what other challenges and dangers await you in the vast expanse of space. But for now, you're just grateful to have escaped with your life, however precarious it may be.",
+      "choices": [
+        {
+          "option": "Thanks for playing! Want to play again?",
+          "nextPage": 0
+        }
+      ]
+    },
+    {
+      "pageNum": 36,
+      "vitals": 0,
+      "oxygen": 0,
+      "profit": 0,
+      "story": "As you settle back into your seat, a sense of gratitude washes over you for having survived the ordeal. With a weary sigh, you opt to steer clear of the station's ominous depths, prioritizing your safety over any further exploration. As your ship sets course for the nearest port, you can't shake the lingering question of what could have led to the station's demise, but for now, it remains an enigma waiting to be unraveled. <br><br> Turning your attention to the present, you acknowledge that your modest haul will only provide temporary relief from your mounting debts. However, amidst the challenges and uncertainties, you find solace in the companionship of your newfound friend—the astrokraken who bravely stood by your side in the face of danger. Determined to honor its loyalty, you grant it a place of honor on your ship's dashboard, a silent sentinel gazing out at the vast expanse of space. <br><br> With the astrokraken by your side and a glimmer of hope in your heart, you set your sights on the future, trusting that somehow, things will work out in the end.",
+      "choices": [
+        {
+          "option": "Thanks for playing! Want to play again?",
+          "nextPage": 0
+        }
+      ]
+    },
+    {
+      "pageNum": 37,
+      "vitals": 0,
+      "oxygen": 0,
+      "profit": 0,
+      "story": "As you're about to check the condition of the tools on your suit's belt, V.I. alerts you to the closing proximity of your destination. Hyperspace travel has always been a tad more inexact than the techies would like you to believe. Nevertheless, it suited your purpose just fine as you slipped into your EVA suit and returned to the helm.<br><br>As soon as your seat cradled you, you dropped out of hyperspace just outside a debris field. Light from distant stars illuminated the shape of the station. Carefully, you piloted your freighter through the field, wincing at every small clunk of debris bouncing off the hull, too small to avoid. A few bodies amidst the wreckage seemed to have been flash-frozen, but that wasn't too abnormal for something like this.<br><br>Before long, you arrived at the most intact part of the station—the main building block and central core, referred to by shipbuilders and scrappers as module one. The colossal structure, hundreds of feet wide, was built almost in a circular fashion, part of a pillar designed to spin and maintain its position. Your sensors picked up the formerly welcoming sight of the hangar bay, where many travelers must have passed through in its prime. Now, it sat in the shadow of its own destruction, beckoning those who dared to enter its shady depths.<br><br>You've picked up a few instincts in your years of spacing through abandoned hulks of scrap. There are benefits to entering through the hangar—a faster escape, a good look at what you're getting into. The downside is, if security is still online, you might be facing at least a turret ready to shred you the moment you step into its sight.<br><br>And then there's the matter of high-value sites—officers' quarters, shops, and data banks—further inside, requiring more oxygen and time on the station. Even with the hangar approach, wandering too far from the ship is a risk.<br><br>Recalling an old trick your former employer taught you, the straightforward approach isn't the only option. The old maintenance hatches, used by engineers to access internal infrastructure, provide entry practically anywhere on the desired salvaging spot. It's a quick and easy route, but not always the best for a hasty escape. Your former employer met his demise, mauled by a <div class='tooltip'>starshade marauder<span class='tooltiptext'>Closest to the species of predatory cats located back on Earth. With the variance of surviving for extended periods in space, an extra set of legs, and the taste of humanoid spinal fluid.</span></div>, a testament to the risks involved.<br><br>Despite the potential danger, it offers more time to gather loot. As you weigh the pros and cons of each approach, considering the lure of quick rewards against the lurking threats, you make your decision...",
+      "choices": [
+        {
+          "option": "Land in the hanger bay",
+          "nextPage": 3
+        },
+        {
+          "option": "<span style='color:grey; cursor: auto;'>Find a maintenance hatch (Path coming soon!)</span>",
+          "nextPage": 2
+        },
+        {
+          "option": "Just leave",
+          "nextPage": 38
+        }
+      ]
+    },
+    {
+      "pageNum": 38,
+      "vitals": 0,
+      "oxygen": 0,
+      "profit": 0,
+      "story": "''<div class='tooltip'>Doints <span class='tooltiptext'>A common practice that ended up being picked up by star pilots and spacers alike is to swear in mathematical terms to cut down on profanity, this one in particular being shorted from ‘’Decimal Point’’</span></div> to this!'' you say to- <br><br> Wait a minute! Are you seriously just going to choose to leave? That's not why we're here! This is our moment to seize the opportunity, to face whatever challenges come our way head-on. We can't just turn tail and run; that's not the spirit of adventure! There's a whole station out there waiting to be explored, mysteries to unravel, dangers to overcome. We're not going to achieve anything by taking the easy way out. So, come on, let's dive back in and embrace the thrill of the unknown. What do you say? Ready to forge ahead and see where this journey takes us?",
+      "choices": [
+        {
+          "option": "You should actually try.",
+          "nextPage": 39
+        }
+      ]
+    },
+    {
+      "pageNum": 39,
+      "vitals": 0,
+      "oxygen": 0,
+      "profit": 0,
+      "story": "As you're about to check the condition of the tools on your suit's belt, V.I. alerts you to the closing proximity of your destination. Hyperspace travel has always been a tad more inexact than the techies would like you to believe. Nevertheless, it suited your purpose just fine as you slipped into your EVA suit and returned to the helm.<br><br>As soon as your seat cradled you, you dropped out of hyperspace just outside a debris field. Light from distant stars illuminated the shape of the station. Carefully, you piloted your freighter through the field, wincing at every small clunk of debris bouncing off the hull, too small to avoid. A few bodies amidst the wreckage seemed to have been flash-frozen, but that wasn't too abnormal for something like this.<br><br>Before long, you arrived at the most intact part of the station—the main building block and central core, referred to by shipbuilders and scrappers as module one. The colossal structure, hundreds of feet wide, was built almost in a circular fashion, part of a pillar designed to spin and maintain its position. Your sensors picked up the formerly welcoming sight of the hangar bay, where many travelers must have passed through in its prime. Now, it sat in the shadow of its own destruction, beckoning those who dared to enter its shady depths.<br><br>You've picked up a few instincts in your years of spacing through abandoned hulks of scrap. There are benefits to entering through the hangar—a faster escape, a good look at what you're getting into. The downside is, if security is still online, you might be facing at least a turret ready to shred you the moment you step into its sight.<br><br>And then there's the matter of high-value sites—officers' quarters, shops, and data banks—further inside, requiring more oxygen and time on the station. Even with the hangar approach, wandering too far from the ship is a risk.<br><br>Recalling an old trick your former employer taught you, the straightforward approach isn't the only option. The old maintenance hatches, used by engineers to access internal infrastructure, provide entry practically anywhere on the desired salvaging spot. It's a quick and easy route, but not always the best for a hasty escape. Your former employer met his demise, mauled by a <div class='tooltip'>starshade marauder<span class='tooltiptext'>Closest to the species of predatory cats located back on Earth. With the variance of surviving for extended periods in space, an extra set of legs, and the taste of humanoid spinal fluid.</span></div>, a testament to the risks involved.<br><br>Despite the potential danger, it offers more time to gather loot. As you weigh the pros and cons of each approach, considering the lure of quick rewards against the lurking threats, you make your decision...",
+      "choices": [
+        {
+          "option": "Land in the hanger bay",
+          "nextPage": 3
+        },
+        {
+          "option": "<span style='color:grey; cursor: auto;'>Find a maintenance hatch (Path coming soon!)</span>",
+          "nextPage": 2
+        },
+        {
+          "option": "<span style='color:grey; cursor: auto;'>Just leave <span style='color:#FF6161;'>(I FORBID IT)</span></span>",
+          "nextPage": 39
+        }
+      ]
+    },
+    {
+      "pageNum": 40,
+      "vitals": 0,
+      "oxygen": 0,
+      "profit": 0,
+      "story": "As you sprint down into the unknown depths of the station, desperation driving every step, you hope against hope to find some semblance of salvation in the dark corridors. Perhaps a functioning security system or a blastproof door that could shield you from your relentless pursuers.<br><br>But hope quickly turns to dread as you pass by the husks of torn-apart turrets, realizing with a sinking feeling that the robotics store wasn't merely looted by the mechanical monstrosity—it was its lair. A grim realization settles over you as you realize you've plunged deeper into the heart of danger.<br><br>Suddenly, your already dire situation takes a horrifying turn as a new threat emerges from the darkness ahead. A wholly organic creature, a moving mass of meat that assembles itself into a quadripedal form, muscles extending to grip the walls and ceiling, blocking any hope of escape.<br><br>Trapped between the mechanical horror behind you and the fleshy nightmare before you, you're frozen with fear as your next moments descend into agony. The creatures pay no heed to each other, focused solely on their own desires, while you become their unwitting victim.<br><br>Your suit offers little protection as it's torn apart, leaving you exposed to the freezing vacuum of space for a brief, chilling moment before the organic monstrosity envelops you. At first, its embrace feels almost comforting, but any semblance of hope is swiftly crushed as it begins to digest you, integrating your bones into its flesh with horrifying efficiency.<br><br>In your final moments, you can only lament the cruel fate that led you to this grisly end, a mere plaything for the horrors lurking within the depths of the abandoned station.",
+      "choices": [
+        {
+          "option": "Want to try again?",
+          "nextPage": 0
+        }
+      ]
+    }
+  ]
+}
